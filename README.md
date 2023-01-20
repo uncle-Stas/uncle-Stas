@@ -6,4 +6,4 @@
 - 📫 How to reach me: stanislav.zavadskyi11@gmail.com
 
 ## My Stack:
-
+HTML5
