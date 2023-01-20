@@ -7,4 +7,4 @@
 
 ### My Stack:
 
-![HTML](https://github.com/uncle-Stas/uncle-Stas/blob/main/html.png
+![HTML](https://github.com/uncle-Stas/uncle-Stas/blob/main/html.png)
