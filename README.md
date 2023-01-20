@@ -6,10 +6,10 @@
 - 📫 How to reach me: stanislav.zavadskyi11@gmail.com
 
 ### My Stack:
+<img src="https://user-images.githubusercontent.com/101670941/213763144-86dcbb6e-afb0-4f87-8b82-8037ba8a0e68.png" width="200px" height="200px" alt="HTML" />
+<img src="https://user-images.githubusercontent.com/101670941/213763169-2fdcaace-2c1b-46bf-af8f-b551ee8ed45b.png" width="200px" height="200px" alt="CSS" />
+<img src="https://user-images.githubusercontent.com/101670941/213763191-92fba9a8-f63a-4a59-8ec7-2fc158952838.png" width="200px" height="200px" alt="SASS" />
 
-![HTML](https://github.com/uncle-Stas/uncle-Stas/blob/main/html.png)
-![HTML](https://github.com/uncle-Stas/uncle-Stas/blob/main/css.png)![typescript](https://user-images.githubusercontent.com/101670941/213762480-2764cb35-4746-49ea-af47-156774091126.png)
 
-![HTML](https://github.com/uncle-Stas/uncle-Stas/blob/main/sass.png)
 
 HTML5 CSS3 SASS JavaScript React NodeJS
