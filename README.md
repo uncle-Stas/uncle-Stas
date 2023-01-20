@@ -7,4 +7,6 @@
 
 ### My Stack:
 
-![HTML](https://github.com/uncle-Stas/uncle-Stas/blob/main/html.png)
+[HTML](https://github.com/uncle-Stas/uncle-Stas/blob/main/html.png)
+
+HTML5 CSS3 SASS JavaScript React NodeJS
